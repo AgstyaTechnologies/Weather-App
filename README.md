@@ -1,4 +1,4 @@
-# weather_app
+# Weather App
 
 It fetches weather data using OpenWeatherMap APIs.
 
